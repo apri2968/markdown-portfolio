@@ -2,10 +2,20 @@
 layout: default
 ---
 
-https://github.com/apri2968
+{% include 01-name.md %}
+
 <br>
 
-https://github.com/apri2968
+{% include 02-image.md %}
+
 <br>
 
-https://github.com/apri2968
+{% include 03-links.md %}
+
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
