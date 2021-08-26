@@ -1,1 +1,14 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*TOP Student **present**
+
+-SKILLS
+
+--_git_
+
+--_Python_
+
+--_Java_
+
+--More Coming Soon
+
+
+*Virtualization Engineer _past_ 
