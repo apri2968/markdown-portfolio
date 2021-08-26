@@ -2,13 +2,10 @@
 layout: default
 ---
 
-{% include 01-name.md %}
-
+https://github.com/apri2968
 <br>
 
-{% include 02-image.md %}
-
+https://github.com/apri2968
 <br>
 
-{% include 03-links.md %}
-
+https://github.com/apri2968
